@@ -1,12 +1,17 @@
 Brand Names for the ingredients used in cooking:
 
 1) Molasses:- Monarch (Light Unsulphured) Molasses.
+
 2) Carageenan:- Carageenan, Maltodextrin TIC Gums.
-Phone# 410-273-7300  800-899-3953
-Colloid 710 H-96 Powder (not sure whether this is relevant)
+ Phone# 410-273-7300  800-899-3953
+ Colloid 710 H-96 Powder (not sure whether this is relevant)
+
 3) Cornmeal:- Aunt Jemima (yellow) Cornmeal (enriched-degerminated)
+
 4) Yeast:- (New Improved) Saf- instant
+
 5) Propionic Acid- Mallinckrodt Chemicals
+
 6) Tegosept:- Tegosept (Flyfood Preservative, Methyl paraben)
 Apex Bioresearch Products
 Genesee Sceintific (Phone# 800-789-5550)
