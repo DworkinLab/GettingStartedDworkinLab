@@ -19,17 +19,15 @@ Drosophila Protocols:  chapter 35
 Developmental Biology: A guide for experimental study. chapter 8 (in particular, pages 94-101)
 
 ###Basic laboratory skills (essential):
-At the Bench:   Chapters 1, 3-9.   (Everyone should read these chapters).
+At the Bench: Chapters 1, 3-9.  **(Everyone should read these chapters)**.
 
-                        If you  are doing DNA/RNA work then also read Chapters 12,14,15. 
+-If you  are doing DNA/RNA work then also read Chapters 12,14,15. 
                         
-                        If you are microscopy read chapter 16. 
-                        
-                        Also read Chapter 3 of "Developmental Biology: A Guide for Experimental Study".
-                        
-                        If you are doing any molecular cloning read chapter 11.
+-If you are doing  microscopy read chapter 16 of at the Bench. (Also read Chapter 3 of "Developmental Biology: A Guide for Experimental Study").
 
-
+If you are doing any molecular cloning read chapter 11.
+                        
+                        
 Further reading will be required for specific projects.
 
 ##Working in the fly lab: 
