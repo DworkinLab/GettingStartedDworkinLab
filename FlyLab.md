@@ -17,8 +17,13 @@ Developmental Biology: A guide for experimental study. chapter 8 (in particular,
 
 ###Basic laboratory skills (essential):
 At the Bench:   Chapters 1, 3-9.   (Everyone should read these chapters).
+
                         If you  are doing DNA/RNA work then also read Chapters 12,14,15. 
-                        If you are microscopy read chapter 16. Also read Chapter 3 of "Developmental Biology: A Guide for Experimental Study".
+                        
+                        If you are microscopy read chapter 16. 
+                        
+                        Also read Chapter 3 of "Developmental Biology: A Guide for Experimental Study".
+                        
                         If you are doing any molecular cloning read chapter 11.
 
 
