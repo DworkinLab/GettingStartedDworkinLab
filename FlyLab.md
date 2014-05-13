@@ -8,10 +8,12 @@ These readings are essential!!!!  Please read. They are also worth re-reading se
 
 ###Drosophila basics:
 Fly Pushing:  Chapters 1, 4-5
+
 Drosophila Guide:   p. 3-16, *30-44 *optional/use as reference
+
 Drosophila Protocols:  chapter 35
-Developmental Biology: A guide for experimental study
-  chapter 8 (in particular, pages 94-101)
+
+Developmental Biology: A guide for experimental study. chapter 8 (in particular, pages 94-101)
 
 ###Basic laboratory skills (essential):
 At the Bench:   Chapters 1, 3-9.   (Everyone should read these chapters).
