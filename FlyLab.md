@@ -7,9 +7,12 @@ WHEN FIRST JOINING THE LAB:
 These readings are essential!!!!  Please read. They are also worth re-reading several months after you have joined the lab, as many things which initially made little sense, will make a lot more.
 
 ###Drosophila basics:
-Fly Pushing:  Chapters 1, 4-5
+Please read the excellent [How to design a genetic mating scheme: a basic training package for Drosophila genetics](http://figshare.com/articles/How_to_design_a_genetic_mating_scheme_a_basic_training_package_for_Drosophila_genetics/106631). The article describing the overview of this package can be read [here](http://www.g3journal.org/content/3/2/353.full.pdf+html)
 
-Drosophila Guide:   p. 3-16, *30-44 *optional/use as reference
+
+Fly Pushing (Greenspan):  Chapters 1, 4-5
+
+Drosophila Guide (Demerec):   p. 3-16, *30-44 *optional/use as reference
 
 Drosophila Protocols:  chapter 35
 
