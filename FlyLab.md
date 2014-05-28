@@ -12,11 +12,13 @@ Please read the excellent [How to design a genetic mating scheme: a basic traini
 
 Fly Pushing (Greenspan):  Chapters 1, 4-5
 
+Drosophila: A Practical Approach (Roberts, ed.): Chapter 1 (also chapter 9 for behavioural work).
+
 Drosophila Guide (Demerec):   p. 3-16, *30-44 *optional/use as reference
 
 Drosophila Protocols:  chapter 35
 
-Developmental Biology: A guide for experimental study. chapter 8 (in particular, pages 94-101)
+Developmental Biology: A guide for experimental study (Tyler). chapter 8 (in particular, pages 94-101)
 
 ###Basic laboratory skills (essential):
 At the Bench: Chapters 1, 3-9.  **(Everyone should read these chapters)**.
