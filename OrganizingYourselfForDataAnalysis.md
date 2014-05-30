@@ -1,7 +1,7 @@
 Dworkin lab Guide to organizing your scripts and data files
 ===========================================================
 
-## **This is a draft outline, not to be used yet.**
+## --This is a draft outline, not to be used yet.--
 
 ## Why be so precise about how we organize our data and analysis scripts?
 - Make it easy and efficient for current use.
