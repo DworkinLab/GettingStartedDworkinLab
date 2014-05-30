@@ -1,7 +1,7 @@
 Dworkin lab Guide to organizing your scripts and data files
 ===========================================================
 
-## --This is a draft outline, not to be used yet.--
+## -This is a draft outline, not to be used yet.-
 
 ## Why be so precise about how we organize our data and analysis scripts?
 - Make it easy and efficient for current use.
@@ -47,6 +47,9 @@ While [this](http://dx.plos.org/10.1371/journal.pcbi.1000424) article is written
 
 ## Reproducible research
 - markdown vs. LaTeX
+-- [mardown tutorial](http://daringfireball.net/projects/markdown/)
+-- [github flavoured markdown](https://help.github.com/articles/github-flavored-markdown)
+-- [github flavoured markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - knitR & sweave
 
 
