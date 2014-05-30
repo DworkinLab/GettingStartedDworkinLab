@@ -1,4 +1,4 @@
-Dworkin lab Guide to organizing your scripts and data files
+Dworkin lab Guide to keeping yourself organized, efficient and sane before, during and after data analysis
 ===========================================================
 
 ## -This is a draft outline, not to be used yet.-
