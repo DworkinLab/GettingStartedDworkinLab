@@ -33,20 +33,20 @@ If you are doing any molecular cloning read chapter 11.
 Further reading will be required for specific projects.
 
 ## Online resources
-[flybase]()
-[interactive fly]()
-[Bloomington stock center]()
+- [flybase](http://flybase.org/)
+- [interactive fly](http://www.sdbonline.org/sites/fly/aimain/1aahome.htm)
+- [Bloomington stock center](http://flystocks.bio.indiana.edu/)
 
 ##Working in the fly lab: 
 ###IN A.M., First person in:
--Get fly food out of fridge. ~1 tray of bottles and 1 of vials (tegosept and non-tegosept).
--Get brushes, funnels, transfer pads, paper towel, eppendorf tubes and yeast from freezer
+- Get fly food out of fridge. ~1 tray of bottles and 1 of vials (tegosept and non-tegosept).
+- Get brushes, funnels, transfer pads, paper towel, eppendorf tubes and yeast from freezer
  
 ###IN P.M., Last person out:
--Put fly food in fridge, properly bagged
--Put brushes, funnels, transfer pads, paper towel, eppendorf tubes and yeast in freezer
--Make sure gas is off. (clear pressure from system)
--Turn off lights
+- Put fly food in fridge, properly bagged
+- Put brushes, funnels, transfer pads, paper towel, eppendorf tubes and yeast in freezer
+- Make sure gas is off. (clear pressure from system)
+- Turn off lights
   
 ###USING MICROSCOPES:
 - *NO MASCARA*
@@ -56,7 +56,7 @@ Further reading will be required for specific projects.
 - Check with others and turn off gas if not in use (clear pressure from system)
  
 ###AT ALL TIMES:
--Keep vials and bottles covered
+- Keep vials and bottles covered
  
 
 Maintain awareness of your neighbors and collaborators, and any flies they may be contributing to
