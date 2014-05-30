@@ -98,22 +98,15 @@ plate), assume that it is a source of contamination and remove it immediately. I
 - At Room Temp, vials should be transferred no later than 18 days after setting up. Parents can be removed once larvae are present (~3-5 days). Can wait longer if desired, no later than ~9 days.
 - At 24 degrees, vials should be transferred no later than 16 days after setting up. Parents can be removed once larvae are present (~3-5 days). Can wait longer if desired, no later than ~8 days.
 - At 18 degrees, vials should be transferred no later than 21 days after setting up. Parents can be removed once larvae are present (~5 days). Can wait longer if desired, no later than ~10 days.
- 
-   When maintaining stocks, keep at least one copy as back up. Between the copies of a line, transfers should be staggered; transfer only if larvae are present in the copy. Ideally, both copies should be checked at once- when transferring flies from one copy, dump parents from the other
+- When maintaining stocks, keep at least one copy as back up. Between the copies of a line, transfers should be staggered; transfer only if larvae are present in the copy. Ideally, both copies should be checked at once- when transferring flies from one copy, dump parents from the other
+- When transferring, check and add yeast, water or paper towel as needed.
+- Label vials or tray with the date transferred to help yourself remember when they were last looked at/when they need to be transferred next.
   
-   When transferring, check and add yeast, water or paper towel as needed.
- 
-   Label vials or tray with the date transferred to help yourself remember when they were last looked at/when they need to be transferred next.
-  
-TIPS & TRICKS:
-   For fly pushing,
-Use thin brushes, big brushes are more likely to trap flies
-Make sure all flies are cleared from plate between different genotypes
-Check brush before adding any flies to vials or bottles
 
- 
-   For weak stocks,
-Note stock and check more frequently, keeping up on water or yeast can do wonders!
-Score food before adding flies
-If possible, keep at 24 degrees
+TIPS & TRICKS:
+- For fly pushing, Use thin brushes, big brushes are more likely to trap flies
+- Make sure all flies are cleared from plate between different genotypes
+- Check brush before adding any flies to vials or bottles
+- For weak stocks, note stock and check more frequently, keeping up on water or yeast can do wonders!
+Score food before adding flies If possible, keep at 24 degrees
 
