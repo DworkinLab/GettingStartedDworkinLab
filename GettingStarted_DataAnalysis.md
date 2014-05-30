@@ -9,11 +9,15 @@ Dworkin lab Guide to organizing your scripts and data files
 - 
 ## Make your research reproducible from day one
 
+## Data back up
+[what you do not want](http://www.phdcomics.com/comics/archive.php?comicid=382)
+
 ##File formats
 - Why we use flat text files
 - Excel is ok for data entry, but not for long term storage
 - Why we use .csv for "spreadhseets
 - When to use relational databases
+- Why you should do data transformations in your scripts and [not in the datafile](http://www.phdcomics.com/comics/archive.php?comicid=1323)
 
 ## Folder structures
 - Why we have a recommended folder structure
@@ -27,6 +31,7 @@ While [this](http://dx.plos.org/10.1371/journal.pcbi.1000424) article is written
 
 ## Scripting
 - Philosophy for organizing scripts.
+- Avoid doing [this](http://www.phdcomics.com/comics/archive.php?comicid=1323). 
 - Source scripts (for functions) and analysis scripts.
 - Syntax style guide for [R](https://www.msu.edu/~idworkin/ZOL851_style_guide.html)
 - Syntax style guide for python
@@ -44,6 +49,9 @@ While [this](http://dx.plos.org/10.1371/journal.pcbi.1000424) article is written
 [Nice R Code](http://nicercode.github.io/)
 
 ## Getting started using git and guthub
+- What you [don't want](http://www.phdcomics.com/comics/archive.php?comicid=382)
+- version control for scripts (and small data)
+- 
 
 ## Reproducible research
 - markdown vs. LaTeX
