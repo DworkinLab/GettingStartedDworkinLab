@@ -16,7 +16,7 @@ intro book. CSE845 notes and screencasts...ZOL851.... Bolker, R Book, R in a nut
 [The R book](http://ezproxy.msu.edu:2047/login?url=http://onlinelibrary.wiley.com/book/10.1002/9780470515075) (note - needs MSU proxy for access)
 [R wikibook](http://en.wikibooks.org/wiki/R_Programming)
 [quick R](http://www.statmethods.net/)
-
+[R inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 ## Resources you need to know about
 [CRAN task views](http://cran.r-project.org/web/views/)
 
