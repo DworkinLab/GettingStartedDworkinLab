@@ -1,11 +1,16 @@
-Dworkin lab Guide to keeping yourself organized, efficient and sane before, during and after data analysis
+keeping yourself organized, efficient and sane before, during, and after data analysis
 ===========================================================
 
 ## -This is a draft outline, not to be used yet.-
 
 ## Why be so precise about how we organize our data and analysis scripts?
-- Make it easy and efficient for current use.
-- Make it easy and efficient for future use.
+Why go to such extremes about how we organize data and scripts? It turns out that most people (including me), left to their own devices, will end up with a morass of analysis scripts, various copies of the data (which have been edited in different ways).  Often all of these scripts, copies of data and figures end up in a single folder. Anyone who has gone back to their own data and analysis after 6 months knows that it can be incredibly difficult or impossible to reconstruct their own work. So how on earth would anyone else (including your PI) be able to do so.
+
+So instead of asking yourself the question "Will I be able to make sense of what I have done tomorrow, when I come back to the analysis?", you should be asking "Will I understand this in a year? Will my labmates and PI understand this? How about other people who want to reproduce my analysis once it is published?".
+
+So you want to:
+- Make it easy, clear and efficient for current use.
+- Make it easy, clear and efficient for future use.
 - 
 ## Make your research reproducible from day one
 
