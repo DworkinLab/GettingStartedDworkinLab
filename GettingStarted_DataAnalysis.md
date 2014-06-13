@@ -23,11 +23,17 @@ Dworkin lab Guide to keeping yourself organized, efficient and sane before, duri
 - Why we have a recommended folder structure
 - The recommended folder structure
      /projectName
+
            /data
+           
            /scripts
+           
            /outputs
+           
            /figures
+           
            /misc
+           
            /manuscript
            
 - Example
