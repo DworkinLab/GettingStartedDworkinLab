@@ -22,6 +22,14 @@ Dworkin lab Guide to keeping yourself organized, efficient and sane before, duri
 ## Folder structures
 - Why we have a recommended folder structure
 - The recommended folder structure
+     /projectName
+           /data
+           /scripts
+           /outputs
+           /figures
+           /misc
+           /manuscript
+           
 - Example
 - See blog postings that suggest why to use this.
  See [here](http://nicercode.github.io/blog/2013-04-05-projects/) for some ideas of how to organize your folders.
@@ -39,7 +47,7 @@ While [this](http://dx.plos.org/10.1371/journal.pcbi.1000424) article is written
 ## Some brief notes on *Sanity Checks* during analysis
 - Philosophy: Assume there are mistakes in the data and analysis until you convince yourself otherwise.
 - Sanity checks on the computational process (Unit testing)
-- Sanity checks on data
+- Sanity checks on data (labeling, units, extra zeroes...)
 - Sanity checks on the analysis
 - Some important readings.
 - 
