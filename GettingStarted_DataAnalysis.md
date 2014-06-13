@@ -22,7 +22,9 @@ Dworkin lab Guide to keeping yourself organized, efficient and sane before, duri
 ## Folder structures
 - Why we have a recommended folder structure
 - The recommended folder structure
-     /projectName
+
+
+    /projectName
 
            /data
            
