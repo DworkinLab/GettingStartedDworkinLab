@@ -16,6 +16,8 @@ We have a number of useful resources for getting started with using flies. The b
 Please read the excellent [How to design a genetic mating scheme: a basic training package for Drosophila genetics](http://figshare.com/articles/How_to_design_a_genetic_mating_scheme_a_basic_training_package_for_Drosophila_genetics/106631). The article describing the overview of this package can be read [here](http://www.g3journal.org/content/3/2/353.full.pdf+html)
 
 here are some useful things to read:
+
+Hard copy books:
 Fly Pushing (Greenspan):  Chapters 1, 4-5
 
 Drosophila: A Practical Approach (Roberts, ed.): Chapter 1 (also chapter 9 for behavioural work).
@@ -25,6 +27,10 @@ Drosophila Guide (Demerec):   p. 3-16, *30-44 *optional/use as reference
 Drosophila Protocols:  chapter 35
 
 Developmental Biology: A guide for experimental study (Tyler). chapter 8 (in particular, pages 94-101)
+
+We also have many online resources in the lab dropbox folder (DrosophilaTrainingTutorials). This includes papers outlining important techniques like the UAS-GAL4 system, etc..
+
+The [Atlas of Drosophila Morphology](http://www.sciencedirect.com/science/book/9780123846884) (a PDF is available on the lab dropbox account) is a great way of learning the major morphological markers of flies.
 
 ###Basic laboratory skills (essential):
 At the Bench: Chapters 1, 3-9.  **(Everyone should read these chapters)**.
@@ -38,7 +44,7 @@ If you are doing any molecular cloning read chapter 11.
                         
 Further reading will be required for specific projects.
 
-## Online resources
+## General online resources
 - [flybase](http://flybase.org/)
 - [interactive fly](http://www.sdbonline.org/sites/fly/aimain/1aahome.htm)
 - [Bloomington stock center](http://flystocks.bio.indiana.edu/)
@@ -50,37 +56,35 @@ Further reading will be required for specific projects.
  
 ###IN P.M., Last person out:
 - Put fly food in fridge, properly bagged
-- Put brushes, funnels, transfer pads, paper towel, eppendorf tubes and yeast in freezer
+- Put brushes, funnels, transfer (bunging) foam pads, paper towel, eppendorf tubes and yeast in freezer. This prevents any infestation of food mites.
 - Make sure gas is off. (clear pressure from system)
 - Turn off lights
   
 ###USING MICROSCOPES:
 - *NO MASCARA*
 - Do not turn light source above 70 as it will increase chances of burning out a bulb
-- If you will be working with multiple lines, clean plate and brush between lines
-- When finished, spray CO2 plate, brush, and surrounding area with ethanol and wipe, Cover
+- If you will be working with multiple lines, clean plate and switch brush between lines
+- When finished, spray CO2 plate, brush, and surrounding area with 70% ethanol and wipe, Cover. You can also disinfect with 5% bleach (but rinse with water after). This prevents infection from bacteria and molds.
 - Check with others and turn off gas if not in use (clear pressure from system)
  
 ###AT ALL TIMES:
-- Keep vials and bottles covered
+- Keep vials and bottles covered (flugs should be in). Otherwise random flies will get in and lay eggs (contamination!).
  
-
 Maintain awareness of your neighbors and collaborators, and any flies they may be contributing to
-the local environment. Diligently hunt down any easily caught flies with a paper towel.
+the local environment. Diligently hunt down any easily caught flies with a paper towel (or your finger).
  
 ####Know your flies and what they should look like. 
-Check ~every 3 generations for appropriate eye color, wing shape, balancer, etc. to make sure there is no contamination from other fly lines or mites. There is no shame in something happening, there is much shame in not reporting it!
+Check ~every 3 generations for appropriate eye colour markers, wing markers., balancer, etc. to make sure there is no contamination from other fly lines or mites. There is no shame in something happening, there is much shame in not reporting it! If you are not familiar with what the markers should look like (we do have a poster on the wall), we have a copy of the [Atlas of Drosophila morphology](http://www.sciencedirect.com/science/book/9780123846884) on the lab Dropbox account, so ask me for access.
  
 ####Keep an eye on the fly food levels.
-When vials are down to about half a tray, get another from the fridge to warm up. If food in fridge is running low, do a quick inventory of how much we have and how much you/others will be using and go and get an appropriate amount from the Miller Lab.
-**Remember to return keys to drawer when done**
- 
+When vials are down to about half a tray, get another from the fridge to warm up. If food in fridge is running low, do a quick inventory of how much we have and how much you/others will be using. We will be making food weekly, but this needs to be organized.
+
 ####Neatly stack empty fly food trays. 
-If a large pile begins to accumulate, take them when going to get food and put in Miller Lab freezer for a minimum of 48 hours. Move to fly food room (343) the next time you are over there.
+If a large pile begins to accumulate, take them when going to get food and put in the Lab freezer for a minimum of 48 hours. Move to fly food room (503 LSB) the next time you are over there.
    Keep the room tidy!
 
 ##WORKING WITH FLIES
-1- When working with KEY strains like ORE and SAM (and derivatives) only work with one strain at a time **at the bench**. That is do all of your work with the SAM strain (i.e. virgin collections, crosses, adding water, etc...), and then clean off your CO2 plate, brush, etc... just as if you were finishing all of your fly work. Put these stocks away, and then, get the other stocks (i.e. ORE), and proceed with the work for them.  You should not have the ORE and SAM strains in physical proximity while you are working, so that there is no chance of accidentally grabbing the wrong strain for use.
+1- When working with KEY strains like ORE and SAM (and derivatives) only work with one strain at a time **at the bench**. That is do all of your work with the SAM strain (i.e. virgin collections, crosses, adding water, etc...), and then clean off your CO2 plate, get a fresh brush, etc... just as if you were finishing all of your fly work. Put these stocks away, and then, get the other stocks (i.e. ORE), and proceed with the work for them.  You should not have the ORE and SAM strains in physical proximity while you are working, so that there is no chance of accidentally grabbing the wrong strain for use.
  
 2- Pre-label vials, and CHECK and then RE-CHECK LABELS as you are working. This is the most common cause of contamination. During routine transfers of flies to fresh vials, two strains are placed in the wrong position in the tray, and then when they are being used for crosses the labels are not checked carefully enough and the wrong flies are used. You may wish to re-organize your stocks so that it will be less likely for you to make a mix up (i.e. do not keep two strains that are morphologically indistinguishable next to one another), or at the very least easier to diagnose when a mix-up or contamination has occurred.
  
