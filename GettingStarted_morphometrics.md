@@ -9,6 +9,9 @@ Geometric Morphometrics for Biologists - We have a PDF of it in the lab dropbox 
 
 [Morphometrics with R](http://ezproxy.msu.edu:2047/login?url=http://link.springer.com/openurl?genre=book&isbn=978-0-387-77789-4) - this is mostly useful once you are comfortable with the basics. When this was initially written, there was no single  `R` library but a collection of functions. Much of which is also available in `geomorph` or `shapes` in `R` (see below). However, this book goes through a lot of the algorithms and basic functions and thus remains quite useful.
 
+## How to use wing machine (tutorials)
+[From Will Pitchers](https://github.com/DworkinLab/WingMachine_manual)
+
 ## Software
 [geomorph/R](http://www.geomorph.net/). Geomorph has really really gone a great way to develop a very general purpose set of analysis tools for morphometrics. Their blog has lots of useful tutorials and tips and tricks. Indeed, much of what we had originally written in `R` is now somewhat redundant. Since `geomorph` has a larger user base than our lab scripts, it is more likely that bugs in the code are to be found. Thus I recommend getting used to it. 
 
@@ -26,6 +29,9 @@ Geometric Morphometrics for Biologists - We have a PDF of it in the lab dropbox 
 
 ## Links to Dworkin lab `.R` scripts and functions for morphometrics
 Ok, so I need to really update this (currently most of the development scripts are in the shared dropbox space). However, some of the older (and archived versions of our analysis pipelines can be found in the github repositories associated with our papers.
+
+[Pitchers et al. 2014](https://github.com/DworkinLab/PitchersJEB2014_cricket_wings)
+[Sonnenschein et al 2015](https://github.com/DworkinLab/Wing_Biometrics_2015)
 
 
 ## Other useful resources
