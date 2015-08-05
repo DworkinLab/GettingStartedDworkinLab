@@ -18,8 +18,23 @@ Geometric Morphometrics for Biologists - We have a PDF of it in the lab dropbox 
 
 [shapes/R](http://cran.r-project.org/web/packages/shapes/index.html). One of the older Geometric morphometrics libraries in `R`. 
 
+[`StereoMorph`/`R`](https://cran.r-project.org/web/packages/StereoMorph/index.html). This `R` library is for acquisition of 3D data from relatively inexpsensive set ups (i.e. not requiring a micro-CT scanner). The library was also co-written by Annat Haber (a BEACON post-doc who collaborated with me on a couple of projects). Check out the [authors website](http://home.uchicago.edu/~aolsen/software/stereomorph.shtml) for more details. Also here is the [paper](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12420/full)
+
 [MorphoJ](http://www.flywings.org.uk/MorphoJ_page.htm). This is a GUI based set of tools written in `Java`. It is very easy to use and get started with. While it is currently not set up for high throughput analyses (like GWAS), or for complicated mixed models, it can do a suprising number of analyses. I also use this to teach geometric morphometrics to my Evolutionary Developmental Biology Undergraduate class.
 
 [StonyBrook morphometrics](http://life.bio.sunysb.edu/morph/) -  This includes access to [TPS software](http://life.bio.sunysb.edu/morph/) for morphometrics analysis, and links to many other useful resources.
 
 ## Links to Dworkin lab `.R` scripts and functions for morphometrics
+Ok, so I need to really update this (currently most of the development scripts are in the shared dropbox space). However, some of the older (and archived versions of our analysis pipelines can be found in the github repositories associated with our papers.
+
+
+## Other useful resources
+[Morphometrics Library](http://morpholib.eu.pn/cms/)
+[morpho-tools](http://morpho-tools.net/)
+[Evolutionary Morphing](http://www.idav.ucdavis.edu/research/EvoMorph). Awesome visualizations!
+
+## Various databases
+[phenome 10k](http://phenome10k.org/)
+[facebase](https://www.facebase.org/)
+[Morphbank](http://www.morphbank.net/). I think this is the database that David Houle has put all of his Drosophila wings on.
+[GigaDB](http://gigadb.org/dataset/100141). This is where we hosted all of the images (I think ~6000) for a Drosophila wing dataset. All images, flat files with landmarks and scripts are available here. The scripts and landmarks are also on the DworkinLab github.
