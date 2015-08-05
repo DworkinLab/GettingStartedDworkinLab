@@ -6,10 +6,16 @@ WHEN FIRST JOINING THE LAB:
  
 These readings are essential!!!!  Please read. They are also worth re-reading several months after you have joined the lab, as many things which initially made little sense, will make a lot more.
 
+##Life in the flylab at McMaster
+For most of our flypushing (i.e. collecting flies of specific genotypes and sex, setting up crosses, etc) we use a shared *flylab* space (room 503 LSB) with two other labs that primarily use *Drosophila*. These are the Campos lab and Jacobs lab. Both labs have considerable expertise in fly genetics and molecular genetics (and protocols like immunohistochemistry). The Campos lab also does a fair bit of behavioural neurogenetics research. So lots of expertise. As we use a shared room we have a common set of rules and protocols to keep life in the room happy and healthy for both flies and humans. The [link is here](https://github.com/DworkinLab/GettingStartedDworkinLab/blob/master/McMasterFlyRoom503Protocols.md).
+
 ###Drosophila basics:
+
+We have a number of useful resources for getting started with using flies. The books are all available in the lab, and for a few we have a lab PDF in the shared dropbox folder (please contact me for access if you do not already have some).
+
 Please read the excellent [How to design a genetic mating scheme: a basic training package for Drosophila genetics](http://figshare.com/articles/How_to_design_a_genetic_mating_scheme_a_basic_training_package_for_Drosophila_genetics/106631). The article describing the overview of this package can be read [here](http://www.g3journal.org/content/3/2/353.full.pdf+html)
 
-
+here are some useful things to read:
 Fly Pushing (Greenspan):  Chapters 1, 4-5
 
 Drosophila: A Practical Approach (Roberts, ed.): Chapter 1 (also chapter 9 for behavioural work).
@@ -104,9 +110,9 @@ plate), assume that it is a source of contamination and remove it immediately. I
   
 
 TIPS & TRICKS:
-- For fly pushing, Use thin brushes, big brushes are more likely to trap flies
+- For fly pushing, Use thin brushes, big brushes are more likely to trap flies. We should have plently of brushes so it is ok to use them, and then place in disinfectant. 
 - Make sure all flies are cleared from plate between different genotypes
 - Check brush before adding any flies to vials or bottles
 - For weak stocks, note stock and check more frequently, keeping up on water or yeast can do wonders!
-Score food before adding flies If possible, keep at 24 degrees
+"Score" food (scratch surface of food) before adding flies If possible, keep at 24 degrees
 
