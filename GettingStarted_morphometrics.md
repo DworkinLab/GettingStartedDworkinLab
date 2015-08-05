@@ -30,11 +30,16 @@ Ok, so I need to really update this (currently most of the development scripts a
 
 ## Other useful resources
 [Morphometrics Library](http://morpholib.eu.pn/cms/)
+
 [morpho-tools](http://morpho-tools.net/)
+
 [Evolutionary Morphing](http://www.idav.ucdavis.edu/research/EvoMorph). Awesome visualizations!
 
 ## Various databases
 [phenome 10k](http://phenome10k.org/)
+
 [facebase](https://www.facebase.org/)
+
 [Morphbank](http://www.morphbank.net/). I think this is the database that David Houle has put all of his Drosophila wings on.
+
 [GigaDB](http://gigadb.org/dataset/100141). This is where we hosted all of the images (I think ~6000) for a Drosophila wing dataset. All images, flat files with landmarks and scripts are available here. The scripts and landmarks are also on the DworkinLab github.
