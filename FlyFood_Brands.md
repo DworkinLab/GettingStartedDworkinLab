@@ -1,6 +1,6 @@
 Brand Names for the ingredients used in cooking:
 
-1) Molasses:- Monarch (Light Unsulphured) Molasses.
+1) Molasses:- Monarch (Light Unsulphured) Molasses. It is extremely important that we use unsulphured molasses!
 
 2) Carageenan:- Carageenan, Maltodextrin TIC Gums.
  Phone# 410-273-7300  800-899-3953
@@ -8,7 +8,7 @@ Brand Names for the ingredients used in cooking:
 
 3) Cornmeal:- Aunt Jemima (yellow) Cornmeal (enriched-degerminated)
 
-4) Yeast:- (New Improved) Saf- instant
+4) Yeast:- (New Improved) Safe- instant
 
 5) Propionic Acid- Mallinckrodt Chemicals
 
