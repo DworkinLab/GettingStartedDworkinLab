@@ -41,7 +41,9 @@ In the shared space on Dropbox we have notes from several Morphometrics workshop
 Ok, so I need to really update this (currently most of the development scripts are in the shared dropbox space). However, some of the older (and archived versions of our analysis pipelines can be found in the github repositories associated with our papers.
 
 [Pitchers et al. 2014](https://github.com/DworkinLab/PitchersJEB2014_cricket_wings)
+
 [Sonnenschein et al 2015](https://github.com/DworkinLab/Wing_Biometrics_2015)
+
 [Pitchers et al. 2013](http://datadryad.org/resource/doi:10.5061/dryad.r43k1). This one is on DRYAD, but I should migrate it over soon.
 
 ## Other useful resources
