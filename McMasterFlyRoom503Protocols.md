@@ -10,11 +10,21 @@ So with that in mind, here are some protocols we have instituted (as of August 5
 
 ## What to do with old fly vials and bottles
 
+- Vials and bottles can be discarded in regular plastic garbage bags.
+- When these garbage bags are full, tie them off, and place in the freezer (arriving Monday August 10th 2015) for at least 36 hours. This will kill all flies. These bags are then to be discarded (each lab is currently responsible for their own) in the dumpsters behind LSB.
+- Keep in mind that old vials/bottles can be a breeding ground for mites, which can then establish and infest our stocks and our room. Clearing a mite infestation **IS NOT** fun.
+
 ## disinfecting horizontal surfaces (benches) and general clean up.
-Mondays after the fly meeting (~ i.e. meet in the fly lab at approximately 12:30 each monday).
+- After each use of a fly station (CO^2 plate), you should always disinfect the plate, base of microscope and brush with 70% ethanol. 
+- Each mondays after the fly lab meeting (~ i.e. everyone meet in 503LSB at approximately 12:30 each monday) members of all three labs (Campos, Dworkin & Jacobs) will meet to give the room a quick cleaning (~30 minutes).
+- In particular this will involve disinfecting all horizontal surfaces (such as the benches). Alternate each week with either 70% ethanol, or 5% bleach. 
+- It is probably helpful to even do this under trays on shelves (as deadflies seem to accumulate in such places).
+- A monthly wipedown of the insides of the two incubators is also necessary.
 
 ## Overnight freezing of brushes and foam pads (sometimes called bunging pads) for transferring flies.
+- As part of the general preventitive maintainence (to avoid infestation), paint brushes and foam pads used for transferring should be placed in the freezer overnight. So last person out should do a double check for any stray brushes or pads.
+- Keep in mind the freezer will only kill (we hope) mites. It will not kill any molds, viruses or bacteria. This is why it is also important to spray the brushes (and plates) with 70% after use (to avoid any cross contamination).
 
 ## The fly transfer bench.
-
+The "back bench" (the one with no scopes) will now be the general fly transfer station. After use, please disinfect with either 5% bleach or 70% ethanol, and place foam pads in the freezer.
 
