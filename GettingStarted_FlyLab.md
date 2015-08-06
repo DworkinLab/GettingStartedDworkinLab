@@ -13,7 +13,7 @@ For most of our flypushing (i.e. collecting flies of specific genotypes and sex,
 
 We have a number of useful resources for getting started with using flies. The books are all available in the lab, and for a few we have a lab PDF in the shared dropbox folder (please contact me for access if you do not already have some).
 
-Please read the excellent [How to design a genetic mating scheme: a basic training package for Drosophila genetics](http://figshare.com/articles/How_to_design_a_genetic_mating_scheme_a_basic_training_package_for_Drosophila_genetics/106631). The article describing the overview of this package can be read [here](http://www.g3journal.org/content/3/2/353.full.pdf+html)
+Please read the excellent [How to design a genetic mating scheme: a basic training package for Drosophila genetics](http://files.figshare.com/1994157/Roote_Prokop_SupplMat_1v4.pdf).  The full set of downloads for this (including some powerpoints and exercises) are [here](http://figshare.com/articles/How_to_design_a_genetic_mating_scheme_a_basic_training_package_for_Drosophila_genetics/106631). The article describing the overview of this package can be read [here](http://www.g3journal.org/content/3/2/353.full.pdf+html)
 
 here are some useful things to read:
 
