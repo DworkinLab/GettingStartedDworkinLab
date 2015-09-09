@@ -8,7 +8,7 @@ The idea of the [flyroom](https://www.youtube.com/watch?v=zloG5hSEYNk) as the in
 
 Not only do we want the flyroom to be a place for wonderful conversations and stimulating science (and a little bit of biting satire), we also want it to be a happy and healthy place to work for humans and Drosophila alike. That means some basic, but regular hygiene to minimize the chances of contamination (from other fly strains), infestation (from mites) or infection (from molds, bacteria and viruses). Since three labs are sharing the flyroom (all the better to stimulate great collaborations among all of you), we all need to share in helping keeping the lab clean.
 
-So with that in mind, here are some protocols we have instituted (as of August 5th 2015) to keep the denizens of the room happy.
+So with that in mind, here are some protocols we have instituted (as of August 5<sup>th</sup> 2015) to keep the denizens of the room happy.
 
 ## What to do with old fly vials and bottles
 
@@ -17,7 +17,7 @@ So with that in mind, here are some protocols we have instituted (as of August 5
 - Keep in mind that old vials/bottles can be a breeding ground for mites, which can then establish and infest our stocks and our room. Clearing a mite infestation **IS NOT** fun.
 
 ## Disinfecting horizontal surfaces (benches) and general clean up.
-- After each use of a fly station (CO<sup>2</sup> plate), you should always disinfect the plate, base of microscope and brush with 70% ethanol. 
+- After each use of a fly station (CO<sub>2</sub> plate), you should always disinfect the plate, base of microscope and brush with 70% ethanol. 
 - Each mondays after the fly lab meeting (~ i.e. everyone meet in 503LSB at approximately 12:30 each monday) members of all three labs (Campos, Dworkin & Jacobs) will meet to give the room a quick cleaning (~30 minutes).
 - In particular this will involve disinfecting all horizontal surfaces (such as the benches). Alternate each week with either 70% ethanol, or 5% bleach. 
 - It is probably helpful to even do this under trays on shelves (as deadflies seem to accumulate in such places).
