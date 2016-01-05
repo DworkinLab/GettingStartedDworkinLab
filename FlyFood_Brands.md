@@ -1,6 +1,6 @@
 Brand Names for the ingredients used in cooking:
 
-1) Molasses:- Monarch (Light Unsulphured) Molasses. It is extremely important that we use unsulphured molasses!
+1) Molasses:- Monarch (Light Unsulphured) Molasses. It is extremely important that we use unsulphured molasses! Additionally it turns out that at MSU we switched in 2013 to "BakerSource"Classis unsulphured molasses (Sysco Corp, Texas). This "classic" molasses seems to be the equivalent of 50% "fancy" and 50% blackstrap (based on nutritional information).
 
 2) Carageenan:- Carageenan, Maltodextrin TIC Gums.
  Phone# 410-273-7300  800-899-3953
