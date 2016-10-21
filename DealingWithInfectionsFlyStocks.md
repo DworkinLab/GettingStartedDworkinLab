@@ -20,7 +20,7 @@ The other approach that seems to be keeping the effects of the bacteria minimize
 If you do have a weaker culture, and want to use the red star yeast, I suggest the following. Seed a vial with lots of yeast (red star) on the food surface. Place the flies in this new vial. Repeat with a fresh vial (with fresh yeast) for each of the next two days (i.e. daily transfers). On the 4th day, transfer to a fresh vial without any new yeast seeded. HOPEFULLY, most of the problematic bacteria will have been replaced by the fresh yeast, and there is enough live yeast on the surface of the flies to start fresh community, but not too much too cause overgrowth.
 
 
-Making the antibiotic solution.
+## Making the antibiotic solution.
 
 I have made up two stock solution. 16.5mg/mL tetracycline in 70% ethanol and 20 mg/mL chloramphenicol in 95% ethanol.
 
