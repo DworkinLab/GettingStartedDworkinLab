@@ -21,7 +21,7 @@ In the shared space on Dropbox we have notes from several Morphometrics workshop
 
 [StonyBrook morphometrics](http://life.bio.sunysb.edu/morph/) -  This includes access to [TPS software](http://life.bio.sunysb.edu/morph/) for morphometrics analysis, and links to many other useful resources. Get to know it!
 
-[geomorph/R](http://www.geomorph.net/). Geomorph has really really gone a great way to develop a very general purpose set of analysis tools for morphometrics. Their blog has lots of useful tutorials and tips and tricks. Indeed, much of what we had originally written in `R` is now somewhat redundant. Since `geomorph` has a larger user base than our lab scripts, it is more likely that bugs in the code are to be found. Thus I recommend getting used to it. 
+[geomorph/R](http://geomorphr.github.io/geomorph/). Geomorph has really really gone a great way to develop a very general purpose set of analysis tools for morphometrics. Their blog has lots of useful tutorials and tips and tricks. Indeed, much of what we had originally written in `R` is now somewhat redundant. Since `geomorph` has a larger user base than our lab scripts, it is more likely that bugs in the code are to be found. Thus I recommend getting used to it. 
 
 [Morpho/R](https://cran.r-project.org/web/packages/Morpho/index.html). Another `R` library for morphometrics. Some of the basiic tools overlap with `geomorph`, but there are many advanced plotting tools that differ. Also check out [the blog](http://zarquon42b.github.io/) associated with both `Morpho` and the authors other packages (i.e. `Rvcg`). The authors [github page also may be useful](https://github.com/zarquon42b).
 
