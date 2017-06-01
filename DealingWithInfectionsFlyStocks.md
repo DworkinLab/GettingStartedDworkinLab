@@ -28,8 +28,8 @@ To get final concentrations in a standard food vial (~8mL of food) you want to a
 
 
 | reagent | for_one_vial | for_20_vials |
- --------                    ------------        --------------
-| 16.5 mg/mL Tet           | 24.2 microL         | 484 microL |
+  -------   ------------   ------------ 
+| 16.5 mg/mL Tet | 24.2 microL | 484 microL |
 | 20 mg/mL  Chlor          | 10 microL           | 200 microL |
 | water                    | 15.8 microL         | 316 microL |
 
