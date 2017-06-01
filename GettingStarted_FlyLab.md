@@ -2,6 +2,9 @@ FLY ROOM PROTOCOL
 =================
 
 
+[Ten simple rules to make the most out of your undergraduate research career](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484)
+
+
 WHEN FIRST JOINING THE LAB:
  
 These readings are essential!!!!  Please read. They are also worth re-reading several months after you have joined the lab, as many things which initially made little sense, will make a lot more.
