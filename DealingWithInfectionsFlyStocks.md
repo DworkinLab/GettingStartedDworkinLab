@@ -26,6 +26,7 @@ I have made up two stock solution. 16.5mg/mL tetracycline in 70% ethanol and 20 
 
 To get final concentrations in a standard food vial (~8mL of food) you want to add the following to each vial (make a solution of the following):
 
+
 | reagent                  | for_one_vial        | for_20_vials |
  --------                    ------------        --------------
 | 16.5 mg/mL Tet           | 24.2 microL         | 484 microL |
