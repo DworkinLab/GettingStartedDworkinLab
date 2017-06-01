@@ -108,18 +108,30 @@ plate), assume that it is a source of contamination and remove it immediately. I
 9- Double check with Ian prior to completely throwing out any main fly stocks
 
 ### FLY MAINTENANCE:
+- In general when setting up a new vial you should sprinkle some live yeast (in dispenser in freezer) onto the surface of the food. If you are have just a few flies in the vial (2-5) one or two granules is enough. If there are 10+ then you can be more liberal about adding it.
 - At Room Temp, vials should be transferred no later than 18 days after setting up. Parents can be removed once larvae are present (~3-5 days). Can wait longer if desired, no later than ~9 days.
 - At 24 degrees, vials should be transferred no later than 16 days after setting up. Parents can be removed once larvae are present (~3-5 days). Can wait longer if desired, no later than ~8 days.
 - At 18 degrees, vials should be transferred no later than 21 days after setting up. Parents can be removed once larvae are present (~5 days). Can wait longer if desired, no later than ~10 days.
 - When maintaining stocks, keep at least one copy as back up. Between the copies of a line, transfers should be staggered; transfer only if larvae are present in the copy. Ideally, both copies should be checked at once- when transferring flies from one copy, dump parents from the other
 - When transferring, check and add yeast, water or paper towel as needed.
 - Label vials or tray with the date transferred to help yourself remember when they were last looked at/when they need to be transferred next.
-  
+
+### Dealing with (largely bacterial) infections in your culture.
+
+Drosophila are susceptible to numerous diseases, but are most commonly plagued by overgrowth of yeasts, molds and bactiera. 
+
+**For bacteria:** In particular we have some very serious issues with some acinetobacter species that are highly anti-biotic resistance. For this we have some special protocols that can be [read here](./DealingWithInfectionsFlyStocks.md).
+
+**For molds:** the mold inhibitors in the food usually keeps the molds at bay. If you start seeing some molds (in particular a very green coloured one), transfer the adults to a fresh vial and do several rapid transfers to fresh food. I usually do it 2-3 times on the first day I notice it (once an hour), then 1-2 a day for the next 3 days. If there are larvae in the vial (and it is a very precious stock that you can't afford to throw out), I suggest placing a few small drops (i.e 20-50 microlitres) of 70% ethanol (with a pipette) directly on the mold itself. this may also kill some larvae, but hopefully only in the near vicinity. 
+
+**For yeast:** Yeast is a bit trickier. The flies eat the live yeast, so we want to add some. However too much yeast (or a very fast growing strain) can overcrowd the surface of the food and make it difficult for larvae to burrow. If this is happening, transfer the adults to a fresh vial and do rapid transfers as described above for mold. For larvae in the affected vial, I recommend adding some sterile water (in the wash bottles labeled H2O) scoring the surface of the food with a sterile forcep, and then adding some sterile (autoclaved) paper towel to it. This usually helps a bit. Usually the adults that emerge from this vial are pretty loaded with live yeast so it may be worth doing the rapid transfers for them as well.
 
 TIPS & TRICKS:
 - For fly pushing, Use thin brushes, big brushes are more likely to trap flies. We should have plently of brushes so it is ok to use them, and then place in disinfectant. 
 - Make sure all flies are cleared from plate between different genotypes
 - Check brush before adding any flies to vials or bottles
 - For weak stocks, note stock and check more frequently, keeping up on water or yeast can do wonders!
-"Score" food (scratch surface of food) before adding flies If possible, keep at 24 degrees
+- "Score" food (scratch surface of food) before adding flies If possible, keep at 24 degrees
+- We also have some easy to make artificial media that helps with weak stocks. Ask Ian first.
+- For *Drosophila melanogaster* adding some mushed banana (usually in freezer) can also help. Talk with Ian first.
 
