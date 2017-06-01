@@ -25,8 +25,8 @@ If you do have a weaker culture, and want to use the red star yeast, I suggest t
 I have made up two stock solution. 16.5mg/mL tetracycline in 70% ethanol and 20 mg/mL chloramphenicol in 95% ethanol.
 
 To get final concentrations in a standard food vial (~8mL of food) you want to add the following to each vial (make a solution of the following):
-                                  |for_one_vial        |for_20_vials
-|16.5 mg/mL Tet                   |24.2 microL         |484 microL
+|                                  | for_one_vial        | for_20_vials
+| 16.5 mg/mL Tet                   | 24.2 microL         | 484 microL
 20 mg/mL  Chlor                    10 microL            200 microL
 water                              15.8 microL          316 microL
 
