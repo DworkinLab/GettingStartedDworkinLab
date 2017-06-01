@@ -25,9 +25,11 @@ If you do have a weaker culture, and want to use the red star yeast, I suggest t
 I have made up two stock solution. 16.5mg/mL tetracycline in 70% ethanol and 20 mg/mL chloramphenicol in 95% ethanol.
 
 To get final concentrations in a standard food vial (~8mL of food) you want to add the following to each vial (make a solution of the following):
-|                                  | for_one_vial        | for_20_vials
-| 16.5 mg/mL Tet                   | 24.2 microL         | 484 microL
-20 mg/mL  Chlor                    10 microL            200 microL
-water                              15.8 microL          316 microL
+| reagent                  | for_one_vial        | for_20_vials |
+ --------                    ------------        --------------
+| 16.5 mg/mL Tet           | 24.2 microL         | 484 microL |
+| 20 mg/mL  Chlor          | 10 microL           | 200 microL |
+| water                    | 15.8 microL         | 316 microL |
+
 
 Add water, tet and chlor together into a stock solution.   With a sterile spatula or forceps, poke holes in fly food (to allow solution to penetrate). Add 50 microL of stock solution to each vial, taking care to cover entire surface. Allow dry for at least 4 hours (I leave it overnight). Then you can use the vials. Mark each vial with antibiotics with a black dot on top (so you know it has the antibiotics). After the next generation of flies emerges from that food, label the flug with a "P" on top (post-antibiotic).
