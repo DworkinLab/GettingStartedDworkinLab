@@ -2,9 +2,9 @@
 
 This is about a set of stocks that had a bacterial infections in 2016 in the lab.
 
-##Things that don't work well.
+## Things that don't work well.
 
- the infection is most likely to due to the presence of some acinetobacter species which contain stable antibiotic resistance to at least streptomycin and penicillin. 
+ the infection is most likely to due to the presence of some acinetobacter species which contain stable antibiotic resistance for at least streptomycin and penicillin. 
 
 It also seems to be persistent, and can not be controlled using rapid transfers of lines to fresh vials (i.e. transferring the same flies to fresh vials each hour over a period of 3-4 hours, followed by fresh vials each day for the next 4-5 days). Normally this latter approach works for fungal infections.
 
