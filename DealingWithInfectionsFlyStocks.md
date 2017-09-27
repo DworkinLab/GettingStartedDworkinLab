@@ -10,6 +10,8 @@ It also seems to be persistent, and can not be controlled using rapid transfers 
 
 It also appears that decontaminating eggs via 3-4 minutes in bleach (which dechorionates the eggs) is only partially successful. This is quite surprising. 
 
+We also had poor luck switching the sugar source to dextrose. While this reduced the mucous (apparently a dextrin), we still had larval lethality.
+
 
 ## Things that seem to help
 
@@ -19,6 +21,7 @@ The other approach that seems to be keeping the effects of the bacteria minimize
 
 If you do have a weaker culture, and want to use the red star yeast, I suggest the following. Seed a vial with lots of yeast (red star) on the food surface. Place the flies in this new vial. Repeat with a fresh vial (with fresh yeast) for each of the next two days (i.e. daily transfers). On the 4th day, transfer to a fresh vial without any new yeast seeded. HOPEFULLY, most of the problematic bacteria will have been replaced by the fresh yeast, and there is enough live yeast on the surface of the flies to start fresh community, but not too much too cause overgrowth.
 
+Much of the effects of yeast is likely in part due to its effect on lowering the pH of the fly media. Indeed Bloomington stock center suggests this is a common explanation for persistant bacterial infection. [they](http://flystocks.bio.indiana.edu/Fly_Work/culturing.htm#microbes) suggest lowering the food to around pH of 5, and this can help a lot.
 
 ## Making the antibiotic solution.
 
