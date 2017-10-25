@@ -1,4 +1,12 @@
 # Resources for Quantitative real time PCR (for RNA expression) 
+## Some links to introduce things
+
+We have lots of resources in the lab (dropbox)
+
+[Here is a broad overview](http://www.vetmed.ucdavis.edu/vme/taqmanservice/pdfs/Introduction_to_Real_Time_PCR.pdf)
+
+[ThermoFisher](https://www.thermofisher.com/ca/en/home/life-science/pcr/real-time-pcr/qpcr-education/what-can-you-do-with-qpcr/introduction-to-gene-expression.html)
+
 
 ## Drosophila primers
  
