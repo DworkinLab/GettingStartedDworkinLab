@@ -27,8 +27,11 @@ Note: This part is all in the Ep Motion 5070 Basic User Protocol made by David, 
 2. Set up the worktable.
 
     A1 = TIP50F epTIPS Motion 50 miroL, Filter
+    
     A2 = 1.7ml Epi Tubes (Master Mixes)
+    
     B1 = thermocycler plate 1 (Templates)
+    
     B2 = thermocycler plate 2 (RTPCR rxn plate, empty to start)
     
 3. Set up procedure
