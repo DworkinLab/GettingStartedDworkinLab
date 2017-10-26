@@ -8,7 +8,7 @@ RT PCR Dworkin Lab old protocol (not yet updated)
    2. Example: 35.1nMoles = 351microL of H20 added
 1. From the Hydrated Primers make a solution of equal parts forward and reverse primer to a final concentration of 10microM. (i.e. add 10microL of each primer to 80microL of RNase free water)
 2. RT-PCR recipe (for one rxn) added in the order listed
-   1. H_{2}O: 1.9microL
+   1. H~2~O: 1.9microL
    2. 2x QF RT-PCR Mix: 5microL
    3. Primers: 1microL
    4. QF RT Mix: 0.1 microL
