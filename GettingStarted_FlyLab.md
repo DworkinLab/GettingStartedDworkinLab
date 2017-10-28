@@ -66,7 +66,7 @@ Further reading will be required for specific projects.
 - Turn off lights
   
 ### USING MICROSCOPES:
-- *NO MASCARA*
+- *NO MASCARA*!!! This gets on the microscope oculars and is very hard to clean off!!!
 - Do not turn light source above 70 as it will increase chances of burning out a bulb
 - If you will be working with multiple lines, clean plate and switch brush between lines
 - When finished, spray CO2 plate, brush, and surrounding area with 70% ethanol and wipe, Cover. You can also disinfect with 5% bleach (but rinse with water after). This prevents infection from bacteria and molds.
