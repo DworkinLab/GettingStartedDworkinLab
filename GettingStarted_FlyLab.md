@@ -35,6 +35,8 @@ We also have many online resources in the lab dropbox folder (DrosophilaTraining
 
 The [Atlas of Drosophila Morphology](http://www.sciencedirect.com/science/book/9780123846884) (a PDF is available on the lab dropbox account) is a great way of learning the major morphological markers of flies.
 
+[A clearing house for Drosophila teaching and genetics resources](http://www.flyfacility.manchester.ac.uk/flylinks/)
+
 ### Basic laboratory skills (essential):
 At the Bench: Chapters 1, 3-9.  **(Everyone should read these chapters)**.
 
