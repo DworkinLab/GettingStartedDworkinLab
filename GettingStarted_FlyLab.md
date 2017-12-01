@@ -37,6 +37,8 @@ The [Atlas of Drosophila Morphology](http://www.sciencedirect.com/science/book/9
 
 [A clearing house for Drosophila teaching and genetics resources](http://www.flyfacility.manchester.ac.uk/flylinks/)
 
+Definitely also take a look at the [Drosophila Information Service](http://www.ou.edu/journals/dis/) which is an annual volume of short research, technique and teaching notes. This goes back almost 100 years with lots of cool stuff and it is a great place to find protocols that may be related to something you plan to do.
+
 ### Basic laboratory skills (essential):
 At the Bench: Chapters 1, 3-9.  **(Everyone should read these chapters)**.
 
