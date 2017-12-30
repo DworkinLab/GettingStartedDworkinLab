@@ -1,6 +1,6 @@
 # Some thoughts on dealing with bacterial infections in fly stocks
 
-This is about a set of stocks that had a bacterial infections in 2016 in the lab (we think acetobacter spp.)
+This is about a set of stocks that had a bacterial infections in 2016 in the lab (we think Acinetobacter spp.)
 
 ## Things that don't work well.
 
