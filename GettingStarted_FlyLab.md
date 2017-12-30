@@ -124,7 +124,7 @@ plate), assume that it is a source of contamination and remove it immediately. I
 
 Drosophila are susceptible to numerous diseases, but are most commonly plagued by overgrowth of yeasts, molds and bactiera. 
 
-**For bacteria:** In particular we have some very serious issues with some acinetobacter species that are highly anti-biotic resistance. For this we have some special protocols that can be [read here](./DealingWithInfectionsFlyStocks.md).
+**For bacteria:** In particular we have some very serious issues with some acetobacter species that are highly antibiotic resistance. For this we have some special protocols that can be [read here](./DealingWithInfectionsFlyStocks.md).
 
 **For molds:** the mold inhibitors in the food usually keeps the molds at bay. If you start seeing some molds (in particular a very green coloured one), transfer the adults to a fresh vial and do several rapid transfers to fresh food. I usually do it 2-3 times on the first day I notice it (once an hour), then 1-2 a day for the next 3 days. If there are larvae in the vial (and it is a very precious stock that you can't afford to throw out), I suggest placing a few small drops (i.e 20-50 microlitres) of 70% ethanol (with a pipette) directly on the mold itself. this may also kill some larvae, but hopefully only in the near vicinity. 
 
