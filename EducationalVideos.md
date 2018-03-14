@@ -37,4 +37,7 @@
 [Wolfgang Stephan: Testing other types of selection](https://www.youtube.com/watch?v=13IYyKOZxHE)
 
 
+Check out the [NimBios](https://www.youtube.com/user/NIMBioS/videos) videos, many useful talks and tutorials!
+
+Check out [phyloseminars](https://www.youtube.com/user/phyloseminar/videos) for useful talks and tutorials for comparative methods.
 
