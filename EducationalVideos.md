@@ -21,7 +21,9 @@
 
 [John Wakeley: Basic Probability theory for molecular population genetics](https://www.youtube.com/watch?v=lMegBoAG2zM)
 
-## Wolfgang Stephan
+[John Wakeley: Introduction to gene genealogies and the coalescent](https://www.youtube.com/watch?v=lo864lPyszg)
+
+### Wolfgang Stephan
 [Wolfgang Stephan intro lecture](https://www.youtube.com/watch?v=U42i-lOeQBc)
 
 [Wolfgang Stephan: Neutrality Tests](https://www.youtube.com/watch?v=yrcTCNNVtQY)
