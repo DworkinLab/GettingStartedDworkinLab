@@ -1,0 +1,3 @@
+# videos (youtube etc) that will help you on your way...
+
+[Bruce Walsh: Intro to QG and missing heritability](https://www.youtube.com/watch?v=dnzZVVAu9w8)
