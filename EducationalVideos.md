@@ -23,6 +23,8 @@
 
 [John Wakeley: Introduction to gene genealogies and the coalescent](https://www.youtube.com/watch?v=lo864lPyszg)
 
+[John Wakely: Gene genealogies with recombination](https://www.youtube.com/watch?v=NYYtDmiMB9Q)
+
 ### Wolfgang Stephan
 [Wolfgang Stephan intro lecture](https://www.youtube.com/watch?v=U42i-lOeQBc)
 
