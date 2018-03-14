@@ -24,4 +24,11 @@
 ## Wolfgang Stephan
 [Wolfgang Stephan intro lecture](https://www.youtube.com/watch?v=U42i-lOeQBc)
 
+[Wolfgang Stephan: Neutrality Tests](https://www.youtube.com/watch?v=yrcTCNNVtQY)
+
+[Wolfgang Stephan: Testing other types of selection](https://www.youtube.com/watch?v=13IYyKOZxHE)
+
+[Wolfgang Stephan: Population Genomics](https://www.youtube.com/watch?v=RaDr8pgT4VY)
+
+
 
