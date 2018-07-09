@@ -1,7 +1,7 @@
 Getting started with `R` in the Dworkin lab
 ===========================================
 
-This is just a stub for the moment, to remind me to really write this!
+I have extensive notes and introduction as part of the [Bio720 class](https://github.com/DworkinLab/Bio720/blob/master/Introduction_to_R.md) and I suggest starting there.
 
 If you are just starting out.. suggested course of action...
 intro book. CSE845 notes and screencasts...ZOL851.... Bolker, R Book, R in a nutshell, Hadley's book.
