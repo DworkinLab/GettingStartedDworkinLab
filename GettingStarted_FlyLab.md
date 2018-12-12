@@ -63,7 +63,7 @@ Further reading will be required for specific projects.
  
 ### IN P.M., Last person out:
 - Put fly food in fridge, properly bagged
-- Put brushes, funnels, transfer (bunging) foam pads, paper towel, eppendorf tubes and yeast in freezer. This prevents any infestation of food mites.
+- Put brushes, funnels, transfer (bunging) foam pads, paper towel, eppendorf tubes and yeast in freezer. This prevents any contamination of food mites.
 - Make sure gas is off. (clear pressure from system)
 - Turn off lights
   
@@ -71,7 +71,7 @@ Further reading will be required for specific projects.
 - *NO MASCARA*!!! This gets on the microscope oculars and is very hard to clean off!!!
 - Do not turn light source above 70 as it will increase chances of burning out a bulb
 - If you will be working with multiple lines, clean plate and switch brush between lines
-- When finished, spray CO2 plate, brush, and surrounding area with 70% ethanol and wipe, Cover. You can also disinfect with 5% bleach (but rinse with water after). This prevents infection from bacteria and molds.
+- When finished, spray CO2 plate, brush, and surrounding area with 70% ethanol and wipe, Cover. You can also disinfect with 5% bleach (but rinse with water after). This prevents infection from bacteria and molds and will kill stray flies, eggs or larvae.
 - Check with others and turn off gas if not in use (clear pressure from system)
  
 ### AT ALL TIMES:
@@ -102,7 +102,7 @@ Despite it's apparent efficiency, never have a mix of strains on the plate at th
  
 5- Report any possible sources of contamination to me immediately. I will not be upset if we catch it early, I will likely be much less pleased if it is left un-checked, and spreads.
  
-6- If a fly falls off of the CO2 plate while you are workin, DO NOT USE IT. Treat it as a source of contamination. Similarly if there is a fly on the plate that looks wrong (i.e. it is off on one corner of the
+6- If a fly falls off of the CO2 plate while you are working, DO NOT USE IT. Treat it as a source of contamination. Similarly if there is a fly on the plate that looks wrong (i.e. it is off on one corner of the
 plate), assume that it is a source of contamination and remove it immediately. It is also important to check the CO2 plate for any stray flies that may have landed on the plate, or did not fall into the morgue BEFORE putting a new set of flies on the plate.
  
 7- Organize yourself well before setting up mass crosses. When you are performing a lot of crosses all at once (say more than 10), the possibility of contamination can increase very quickly. It is very important that you organize everything very well before you start the fly work (pre-labeling vials, like with a molecular experiment). Again, it is EXTREMELY IMPORTANT to check and re-check labels, and the flies you are working with because it is very easy to get strains mixed up when you are working with a lot of them. Develop some protocols to double-check your work.
@@ -131,7 +131,7 @@ Drosophila are susceptible to numerous diseases, but are most commonly plagued b
 **For yeast:** Yeast is a bit trickier. The flies eat the live yeast, so we want to add some. However too much yeast (or a very fast growing strain) can overcrowd the surface of the food and make it difficult for larvae to burrow. If this is happening, transfer the adults to a fresh vial and do rapid transfers as described above for mold. For larvae in the affected vial, I recommend adding some sterile water (in the wash bottles labeled H2O) scoring the surface of the food with a sterile forcep, and then adding some sterile (autoclaved) paper towel to it. This usually helps a bit. Usually the adults that emerge from this vial are pretty loaded with live yeast so it may be worth doing the rapid transfers for them as well.
 
 TIPS & TRICKS:
-- For fly pushing, Use thin brushes, big brushes are more likely to trap flies. We should have plently of brushes so it is ok to use them, and then place in disinfectant. 
+- For fly pushing, Use thin brushes, big brushes are more likely to trap flies. We should have plently of brushes so it is ok to use them, and then place in disinfectant (70% ethanol is sufficient). 
 - Make sure all flies are cleared from plate between different genotypes
 - Check brush before adding any flies to vials or bottles
 - For weak stocks, note stock and check more frequently, keeping up on water or yeast can do wonders!
