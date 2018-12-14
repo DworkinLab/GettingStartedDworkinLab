@@ -15,6 +15,20 @@ We have lots of resources in the lab (dropbox)
  
  In addition to looking up published papers that have used primers (those have likely been checked and validated to some degree), for *Drosophila melanogaster* there is the FlyPrimerBank, the [link is here](https://fgr.hms.harvard.edu/flyprimerbank-documentation). The paper for it is [here](http://www.g3journal.org/content/3/9/1607).
  
+ ## Notes from Kevin after training on the ThermoFisher StepOne Plus
+ [Slides for in lab training](https://www.dropbox.com/s/a4m6rsuwg397wn1/SOP_Dworkin.pdf?dl=0)
+ 
+ [Assorted Technical information](https://www.dropbox.com/sh/z0azdtnnyfinijt/AAB-ZpGJr0otrByXdN2t0_U_a?dl=0)
+ 
+ [ThermoFisher RealTime PCR handbook](https://www.dropbox.com/s/y4usy30v9bz0cza/2016-Real-Time-qPCR-Handbook.pdf?dl=0)
+ 
+ [Analyzing real-time PCR data in the StepOne Plus Software]( https://www.youtube.com/watch?v=_2Qe7gejcHg)
+ 
+ [Avoiding Setup Mistakes in StepOne Plus Software](https://www.youtube.com/watch?v=gYTR7HgWNNo&list=PL4AACABAB6F402E9B&index=33)
+ 
+ [Normalization in Gene Expression Experiments](https://www.youtube.com/watch?v=jst-3hD_xFQ)
+ 
+ [How to measure PCR Assay Efficiency? ](https://www.youtube.com/watch?v=iJlglRFGjpw)
  
  ## overview
  
