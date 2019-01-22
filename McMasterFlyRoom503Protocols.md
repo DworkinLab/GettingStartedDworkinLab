@@ -24,14 +24,15 @@ So with that in mind, here are some protocols we have instituted (as of August 5
 - Vials and bottles can be discarded in plastic garbage bags.
 - When these garbage bags are full, tie them off, and place in the freezer for 24 hours. This will kill all flies. These bags are then to be discarded (each lab is currently responsible for their own) in the dumpsters behind LSB.
 - Keep in mind that old vials/bottles can be a breeding ground for bacteria, mites, etc.. which can then establish and infest our stocks and our room. Clearing a mite infestation **IS NOT** fun.
-
+- Also keep in mind that mite contamination in the lab is most likely due to mites from the environment here (on campus), not from importation. So it is not just about quarantine of incoming strains (which always should be done until checked for mites, bacteria or other infections), but to minimize the chances of mites that live at McMaster colonizing our fly lab!
+ 
 ## No living plant material in LSB 503
 - In case of anyone working with a potential plant pest species (unlikely but possible), we do not allow any live plant material in LSB 503.
 
 ## Disinfecting horizontal surfaces (benches) and general clean up.
 
 - Before and after each use of a fly station (CO<sub>2</sub> plate), you should always disinfect the plate, base of microscope and brushes with 70% ethanol. Spray it, let it sit for a minute before wiping it down. 
-- Each monday after the fly lab meeting (~ i.e. everyone meet in 503LSB at approximately 12:30 each monday) members of all labs (Dworkin & Jacobs) will meet to give the room a quick cleaning (~30 minutes).
+- Each monday after the fly lab meeting (~ i.e. everyone meet in 503LSB at approximately 5:00 each monday) members of all labs (Dworkin & Jacobs) will meet to give the room a quick cleaning (~30 minutes).
 - In particular this will involve disinfecting all horizontal surfaces (such as the benches). Alternate each week with either 70% ethanol, or 5% bleach. 
 - It is probably helpful to even do this under trays on shelves.
 - A monthly wipedown of the insides of the two incubators is also necessary.
@@ -47,10 +48,9 @@ The "back bench" (the one with no scopes) will now be the general fly transfer s
 - Do a check on your person for any live Drosophila.
 - Wash your hands prior to leaving room 503.
 
-
 ## Working with potential pest species
 - If you are working with any of the following species (*species go here*) then there are additional protocols to follow.
-- There is a small, seperate waste receptacle for working with these species. Discard old carefully sealed vials in gthis receptacle. These vials should be frozen (for 24 hours), prior to being disposed of. 
+- There is a small, seperate waste receptacle for working with these species. Discard old carefully sealed vials in this receptacle. These vials should be frozen (for 24 hours), prior to being disposed of. These vials should be placed in the freezer immediately after your work with them. 
 - When working with a potential pest species, take additional care at the carbon dioxide anesthetizing station, to make sure all flies are immbolized prior to working with the flies.
 - If you are doing live fly transfers from vial to vial, or bottle to bottle, these should be done inside the bugdorm insect cage that is on the shelf, to prevent any accidental escape.
 - As always, do both a visual inspection and disinfect work area when you finish.
