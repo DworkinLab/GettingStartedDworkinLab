@@ -54,3 +54,5 @@ The "back bench" (the one with no scopes) will now be the general fly transfer s
 - When working with a potential pest species, take additional care at the carbon dioxide anesthetizing station, to make sure all flies are immbolized prior to working with the flies.
 - If you are doing live fly transfers from vial to vial, or bottle to bottle, these should be done inside the bugdorm insect cage that is on the shelf, to prevent any accidental escape.
 - As always, do both a visual inspection and disinfect work area when you finish.
+- [Standard Operating Procedures](https://www.dropbox.com/sh/o4a5pbzodpoloq1/AABYrCUf4IkSu7_EkSlWlnlGa?dl=0) for work with the pest species is here. Please make sure to read all of these and to sign (and have Ian co-sign) the spreadsheet demonstrating that you are good to work with these species in the lab.
+
