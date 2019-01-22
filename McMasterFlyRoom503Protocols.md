@@ -13,6 +13,7 @@ Not only do we want the flyroom to be a place for wonderful conversations and st
 
 So with that in mind, here are some protocols we have instituted (as of August 5<sup>th</sup> 2015) to keep the denizens of the room happy.
 
+
 ## Your person and your stuff
 - Personal bags, knapsacks etc should not be kept in LSB 503
 - As with any lab, no food or drink is allowed into the lab
@@ -23,6 +24,9 @@ So with that in mind, here are some protocols we have instituted (as of August 5
 - Vials and bottles can be discarded in plastic garbage bags.
 - When these garbage bags are full, tie them off, and place in the freezer for 24 hours. This will kill all flies. These bags are then to be discarded (each lab is currently responsible for their own) in the dumpsters behind LSB.
 - Keep in mind that old vials/bottles can be a breeding ground for bacteria, mites, etc.. which can then establish and infest our stocks and our room. Clearing a mite infestation **IS NOT** fun.
+
+## No living plant material in LSB 503
+- In case of anyone working with a potential plant pest species (unlikely but possible), we do not allow any live plant material in LSB 503.
 
 ## Disinfecting horizontal surfaces (benches) and general clean up.
 
