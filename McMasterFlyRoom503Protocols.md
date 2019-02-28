@@ -33,7 +33,7 @@ So with that in mind, here are some protocols we have instituted (as of August 5
 
 - Before and after each use of a fly station (CO<sub>2</sub> plate), you should always disinfect the plate, base of microscope and brushes with 70% ethanol. Spray it, let it sit for a minute before wiping it down. 
 - Each monday after the fly lab meeting (~ i.e. everyone meet in 503LSB at approximately 5:00 each monday) members of all labs (Dworkin & Jacobs) will meet to give the room a quick cleaning (~30 minutes).
-- In particular this will involve disinfecting all horizontal surfaces (such as the benches). Alternate each week with either 70% ethanol, or 5% bleach. 
+- In particular this will involve disinfecting all horizontal surfaces (such as the benches). Alternate each week with either 70% ethanol, or 10% bleach. 
 - It is probably helpful to even do this under trays on shelves.
 - A monthly wipedown of the insides of the two incubators is also necessary.
 
@@ -42,7 +42,7 @@ So with that in mind, here are some protocols we have instituted (as of August 5
 - Keep in mind the freezer will only kill (we hope) mites. It will not kill any molds, viruses or bacteria. This is why it is also important to spray the brushes (and plates) with lots of 70% ethanol after use (to avoid any cross contamination).
 
 ## The fly transfer bench.
-The "back bench" (the one with no scopes) will now be the general fly transfer station. After each use, please disinfect with either 5% bleach or 70% ethanol, and place foam pads in the freezer.
+The "back bench" (the one with no scopes) will now be the general fly transfer station. After each use, please disinfect with either 10% bleach or 70% ethanol, and place foam pads in the freezer.
 
 ## When leaving the lab
 - Do a check on your person for any live Drosophila.
