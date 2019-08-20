@@ -6,6 +6,7 @@ We have lots of resources in the lab (dropbox)
 [Here is a broad overview](http://www.vetmed.ucdavis.edu/vme/taqmanservice/pdfs/Introduction_to_Real_Time_PCR.pdf)
 
 [ThermoFisher](https://www.thermofisher.com/ca/en/home/life-science/pcr/real-time-pcr/real-time-pcr-learning-center.html) The real time PCR learning center.
+Also this https://www.thermofisher.com/ca/en/home/life-science/m/pcr/online-real-time-pcr-training.html
 
 [ThermoFisher](https://www.thermofisher.com/ca/en/home/life-science/pcr/real-time-pcr/qpcr-education/what-can-you-do-with-qpcr/introduction-to-gene-expression.html)
 
