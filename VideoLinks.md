@@ -11,6 +11,12 @@ Note that does not mean we do things *exactly* like this in our lab, but it will
 
 [links to the general Drosophila education videos](https://www.jove.com/search?content_type=scied_content&page=1&query=Drosophila)  
 
+[Drosophila development and reproduction](https://www.jove.com/v/5093/drosophila-development-and-reproduction)  
+
+[Introduction to developmental Genetics](https://www.jove.com/v/5325/an-introduction-to-developmental-genetics)
+
+[Why use Drosophila imaginal discs, and how to dissect them](https://www.jove.com/v/20087/drosophila-larva-imaginal-disc-dissection-a-method-to-observe-developing-epithelia)
+
 [Dissection of imaginal discs from third instar larvae](https://review.jove.com/v/140/dissection-of-imaginal-discs-from-3rd-instar-drosophila-larvae)  
 
 [Overview of immunostaining in Drosophila](https://www.jove.com/v/5106/drosophila-larval-ihc)
@@ -23,6 +29,10 @@ Note that does not mean we do things *exactly* like this in our lab, but it will
 
 [A Rapid and Efficient Method to Dissect Pupal Wings of Drosophila Suitable for Immunodetections or PCR Assays](https://www.jove.com/v/55854/a-rapid-and-efficient-method-to-dissect-pupal-wings-of-drosophila-suitable-for-immunodetections-or-pcr-assays)
 
+[Preparation of Drosophila Larval and Pupal Testes for Analysis of Cell Division in Live, Intact Tissue](https://www.jove.com/v/60961/preparation-of-drosophila-larval-and-pupal-testes-for-analysis-of-cell-division-in-live-intact-tissue)  
+
 [experimental protocol to generate size variation in Drosophila](https://www.jove.com/v/3162/experimental-manipulation-of-body-size-to-estimate-morphological-scaling-relationships-in-drosophila)  
 
 [smFISH](https://www.jove.com/v/61680/single-cell-analysis-of-transcriptionally-active-alleles-by-single-molecule-fish)
+
+[using the Drosophila activity monitor](https://www.jove.com/v/52684/measurement-of-larval-activity-in-the-drosophila-activity-monitor)
